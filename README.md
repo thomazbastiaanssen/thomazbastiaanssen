@@ -10,7 +10,7 @@
 
 ## Guidebook review for host-microbiome bioinformatics analysis
 Published in Nature: Mental Health in two parts: [part 1](https://doi.org/10.1038/s44220-023-00148-3), [part 2](https://doi.org/10.1038/s44220-023-00149-2).  
-Pre-prints with original figures freely available: [part 1](https://arxiv.org/pdf/2305.11703), [part 2](https://arxiv.org/abs/2207.12475).  
+Pre-prints with original figures freely available: [part 1](https://arxiv.org/abs/2207.12475), [part 2](https://arxiv.org/abs/2305.11703).  
 The annotated supplementary [tutorial in R also be found here](https://github.com/thomazbastiaanssen/Tjazi). 
 
 ## Bioinformatics tools:
