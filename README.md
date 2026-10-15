@@ -16,7 +16,7 @@ The annotated supplementary [tutorial in R also be found here](https://github.co
 ####  Multi-modal INtegration Operations, Tools and AUxilaries in R: MinotauR
 | | package | description |
 |---|---|---|
-|🗃️| [MultiFactor](https://github.com/minotau-R/MultiFactor) | S7 classes for relational data |
+|🗃️| [multifactor](https://github.com/minotau-R/multifactor) | S7 classes for relational data |
 |🧶| [ariadne](https://github.com/minotau-R/ariadne) | Import and wrangle relational data |
 |🕷️| [anansi](https://thomazbastiaanssen.github.io/anansi/) | Analysis of specific feature-pair interactions |
 |🦉| [pallas](https://minotau-r.github.io/pallas/) | Compose and send SPARQL queries from R |
